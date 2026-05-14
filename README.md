@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src="https://komarev.com/ghpvc/?username=manikandaprabhu0512&color=941295&label=Profile+Visits" alt="Profile Visits" width="150"/>
 <!--
 **manikandaprabhu0512/manikandaprabhu0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
